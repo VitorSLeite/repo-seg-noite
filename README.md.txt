@@ -8,6 +8,5 @@
 	+um *item em itálico*
 	+outro **item em negrito**
 
-	Silvinha
-
+	Vitor da Silva Leite
 	
