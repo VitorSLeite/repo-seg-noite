@@ -8,5 +8,13 @@
 	+um *item em itálico*
 	+outro **item em negrito**
 
-	Vitor da Silva Leite
-	
+# Listagem Sábado; Tarefas Feitas!
+- Finilazação da Calculadora
+- Subtração;
+- Divisão;
+- Multiplicação;
+- Porcentagem;
+- Reforçar a ideia de como "comitar algo";
+
+ATT 
+Vitor Silva
